@@ -28,7 +28,7 @@ Key takeaways
  7. Async consumes far more CPU and offers worse performance than the syncronous version for all circumstances except asyncronous pipes with a large payload.
     The caveat with this is that if you have an infrequent<sup>3</sup> message it may be more effective to have an async methodolgy as a thread is not being blocked waiting for a payload.
 
-<sup>1</sup> Note that the files have absolute paths. You will need to change many (or all) of them in order to get the .exes run properly on your machine.
+<sup>1</sup> Note that the files have absolute paths. You will need to change many (or all) of them in order to get the .exes to run properly on your machine.
 
 <sup>2</sup> How come I didn't use byte sizes that are a power of 2? Because that wasn't my real use case scenario.
 
