@@ -1,0 +1,13 @@
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Debug\netcoreapp3.1\MemorySharingServer.exe
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Debug\netcoreapp3.1\MemorySharingServer.deps.json
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Debug\netcoreapp3.1\MemorySharingServer.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Debug\netcoreapp3.1\MemorySharingServer.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Debug\netcoreapp3.1\MemorySharingServer.dll
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Debug\netcoreapp3.1\MemorySharingServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Debug\netcoreapp3.1\MemorySharingServer.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Debug\netcoreapp3.1\MemorySharingServer.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Debug\netcoreapp3.1\MemorySharingServer.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Debug\netcoreapp3.1\MemorySharingServer.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Debug\netcoreapp3.1\MemorySharingServer.dll
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Debug\netcoreapp3.1\MemorySharingServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Debug\netcoreapp3.1\MemorySharingServer.genruntimeconfig.cache

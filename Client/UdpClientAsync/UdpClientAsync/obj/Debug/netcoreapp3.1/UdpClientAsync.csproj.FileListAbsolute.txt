@@ -1,0 +1,12 @@
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Debug\netcoreapp3.1\UdpClientAsync.exe
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Debug\netcoreapp3.1\UdpClientAsync.deps.json
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Debug\netcoreapp3.1\UdpClientAsync.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Debug\netcoreapp3.1\UdpClientAsync.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Debug\netcoreapp3.1\UdpClientAsync.dll
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Debug\netcoreapp3.1\UdpClientAsync.pdb
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Debug\netcoreapp3.1\UdpClientAsync.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Debug\netcoreapp3.1\UdpClientAsync.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Debug\netcoreapp3.1\UdpClientAsync.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Debug\netcoreapp3.1\UdpClientAsync.dll
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Debug\netcoreapp3.1\UdpClientAsync.pdb
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Debug\netcoreapp3.1\UdpClientAsync.genruntimeconfig.cache

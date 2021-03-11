@@ -1,0 +1,13 @@
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\bin\Release\netcoreapp3.1\PipeServer.exe
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\bin\Release\netcoreapp3.1\PipeServer.deps.json
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\bin\Release\netcoreapp3.1\PipeServer.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\bin\Release\netcoreapp3.1\PipeServer.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\bin\Release\netcoreapp3.1\PipeServer.dll
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\bin\Release\netcoreapp3.1\PipeServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\obj\Release\netcoreapp3.1\PipeServer.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\obj\Release\netcoreapp3.1\PipeServer.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\obj\Release\netcoreapp3.1\PipeServer.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\obj\Release\netcoreapp3.1\PipeServer.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\obj\Release\netcoreapp3.1\PipeServer.dll
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\obj\Release\netcoreapp3.1\PipeServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\obj\Release\netcoreapp3.1\PipeServer.genruntimeconfig.cache

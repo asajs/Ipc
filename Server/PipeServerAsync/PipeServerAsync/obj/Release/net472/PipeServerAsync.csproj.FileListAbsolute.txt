@@ -1,0 +1,9 @@
+C:\Users\Asa\source\repos\IPC\Server\PipeServerAsync\PipeServerAsync\bin\Release\net472\PipeServerAsync.exe.config
+C:\Users\Asa\source\repos\IPC\Server\PipeServerAsync\PipeServerAsync\bin\Release\net472\PipeServerAsync.exe
+C:\Users\Asa\source\repos\IPC\Server\PipeServerAsync\PipeServerAsync\bin\Release\net472\PipeServerAsync.pdb
+C:\Users\Asa\source\repos\IPC\Server\PipeServerAsync\PipeServerAsync\obj\Release\net472\PipeServerAsync.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\PipeServerAsync\PipeServerAsync\obj\Release\net472\PipeServerAsync.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Server\PipeServerAsync\PipeServerAsync\obj\Release\net472\PipeServerAsync.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\PipeServerAsync\PipeServerAsync\obj\Release\net472\PipeServerAsync.exe
+C:\Users\Asa\source\repos\IPC\Server\PipeServerAsync\PipeServerAsync\obj\Release\net472\PipeServerAsync.pdb
+C:\Users\Asa\source\repos\IPC\Server\PipeServerAsync\PipeServerAsync\obj\Release\net472\PipeServerAsync.csprojAssemblyReference.cache

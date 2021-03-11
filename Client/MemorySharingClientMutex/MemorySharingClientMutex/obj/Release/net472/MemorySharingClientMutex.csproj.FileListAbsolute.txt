@@ -1,0 +1,9 @@
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\net472\MemorySharingClientMutex.exe.config
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\net472\MemorySharingClientMutex.exe
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\net472\MemorySharingClientMutex.pdb
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net472\MemorySharingClientMutex.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net472\MemorySharingClientMutex.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net472\MemorySharingClientMutex.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net472\MemorySharingClientMutex.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net472\MemorySharingClientMutex.exe
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net472\MemorySharingClientMutex.pdb

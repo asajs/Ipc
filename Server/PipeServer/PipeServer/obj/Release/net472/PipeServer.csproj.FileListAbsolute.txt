@@ -1,0 +1,9 @@
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\bin\Release\net472\PipeServer.exe.config
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\bin\Release\net472\PipeServer.exe
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\bin\Release\net472\PipeServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\obj\Release\net472\PipeServer.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\obj\Release\net472\PipeServer.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\obj\Release\net472\PipeServer.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\obj\Release\net472\PipeServer.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\obj\Release\net472\PipeServer.exe
+C:\Users\Asa\source\repos\IPC\Server\PipeServer\PipeServer\obj\Release\net472\PipeServer.pdb

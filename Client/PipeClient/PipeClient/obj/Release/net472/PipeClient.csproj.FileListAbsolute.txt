@@ -1,0 +1,9 @@
+C:\Users\Asa\source\repos\IPC\Client\PipeClient\PipeClient\bin\Release\net472\PipeClient.exe.config
+C:\Users\Asa\source\repos\IPC\Client\PipeClient\PipeClient\bin\Release\net472\PipeClient.exe
+C:\Users\Asa\source\repos\IPC\Client\PipeClient\PipeClient\bin\Release\net472\PipeClient.pdb
+C:\Users\Asa\source\repos\IPC\Client\PipeClient\PipeClient\obj\Release\net472\PipeClient.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\PipeClient\PipeClient\obj\Release\net472\PipeClient.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\PipeClient\PipeClient\obj\Release\net472\PipeClient.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\PipeClient\PipeClient\obj\Release\net472\PipeClient.exe
+C:\Users\Asa\source\repos\IPC\Client\PipeClient\PipeClient\obj\Release\net472\PipeClient.pdb
+C:\Users\Asa\source\repos\IPC\Client\PipeClient\PipeClient\obj\Release\net472\PipeClient.csprojAssemblyReference.cache

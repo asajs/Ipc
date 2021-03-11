@@ -1,0 +1,9 @@
+C:\Users\Asa\source\repos\IPC\Client\TcpClientAsync\ClientAsync\bin\Release\net472\ClientAsync.exe.config
+C:\Users\Asa\source\repos\IPC\Client\TcpClientAsync\ClientAsync\bin\Release\net472\ClientAsync.exe
+C:\Users\Asa\source\repos\IPC\Client\TcpClientAsync\ClientAsync\bin\Release\net472\ClientAsync.pdb
+C:\Users\Asa\source\repos\IPC\Client\TcpClientAsync\ClientAsync\obj\Release\net472\ClientAsync.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Client\TcpClientAsync\ClientAsync\obj\Release\net472\ClientAsync.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\TcpClientAsync\ClientAsync\obj\Release\net472\ClientAsync.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\TcpClientAsync\ClientAsync\obj\Release\net472\ClientAsync.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\TcpClientAsync\ClientAsync\obj\Release\net472\ClientAsync.exe
+C:\Users\Asa\source\repos\IPC\Client\TcpClientAsync\ClientAsync\obj\Release\net472\ClientAsync.pdb

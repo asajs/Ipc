@@ -1,0 +1,12 @@
+C:\Users\Asa\source\repos\ServerAsync\ServerAsync\bin\Debug\netcoreapp3.1\ServerAsync.exe
+C:\Users\Asa\source\repos\ServerAsync\ServerAsync\bin\Debug\netcoreapp3.1\ServerAsync.deps.json
+C:\Users\Asa\source\repos\ServerAsync\ServerAsync\bin\Debug\netcoreapp3.1\ServerAsync.runtimeconfig.json
+C:\Users\Asa\source\repos\ServerAsync\ServerAsync\bin\Debug\netcoreapp3.1\ServerAsync.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\ServerAsync\ServerAsync\bin\Debug\netcoreapp3.1\ServerAsync.dll
+C:\Users\Asa\source\repos\ServerAsync\ServerAsync\bin\Debug\netcoreapp3.1\ServerAsync.pdb
+C:\Users\Asa\source\repos\ServerAsync\ServerAsync\obj\Debug\netcoreapp3.1\ServerAsync.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\ServerAsync\ServerAsync\obj\Debug\netcoreapp3.1\ServerAsync.AssemblyInfo.cs
+C:\Users\Asa\source\repos\ServerAsync\ServerAsync\obj\Debug\netcoreapp3.1\ServerAsync.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\ServerAsync\ServerAsync\obj\Debug\netcoreapp3.1\ServerAsync.dll
+C:\Users\Asa\source\repos\ServerAsync\ServerAsync\obj\Debug\netcoreapp3.1\ServerAsync.pdb
+C:\Users\Asa\source\repos\ServerAsync\ServerAsync\obj\Debug\netcoreapp3.1\ServerAsync.genruntimeconfig.cache

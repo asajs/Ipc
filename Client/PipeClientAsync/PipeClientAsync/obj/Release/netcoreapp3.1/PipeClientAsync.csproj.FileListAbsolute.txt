@@ -1,0 +1,13 @@
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\netcoreapp3.1\PipeClientAsync.exe
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\netcoreapp3.1\PipeClientAsync.deps.json
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\netcoreapp3.1\PipeClientAsync.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\netcoreapp3.1\PipeClientAsync.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\netcoreapp3.1\PipeClientAsync.dll
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\netcoreapp3.1\PipeClientAsync.pdb
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\netcoreapp3.1\PipeClientAsync.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\netcoreapp3.1\PipeClientAsync.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\netcoreapp3.1\PipeClientAsync.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\netcoreapp3.1\PipeClientAsync.dll
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\netcoreapp3.1\PipeClientAsync.pdb
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\netcoreapp3.1\PipeClientAsync.genruntimeconfig.cache
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\netcoreapp3.1\PipeClientAsync.csprojAssemblyReference.cache

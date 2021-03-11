@@ -1,0 +1,16 @@
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\net5.0\UdpClient.exe
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\net5.0\UdpClient.deps.json
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\net5.0\UdpClient.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\net5.0\UdpClient.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\net5.0\UdpClient.dll
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\net5.0\ref\UdpClient.dll
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\net5.0\UdpClient.pdb
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net5.0\UdpClient.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net5.0\UdpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net5.0\UdpClient.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net5.0\UdpClient.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net5.0\UdpClient.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net5.0\UdpClient.dll
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net5.0\ref\UdpClient.dll
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net5.0\UdpClient.pdb
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net5.0\UdpClient.genruntimeconfig.cache

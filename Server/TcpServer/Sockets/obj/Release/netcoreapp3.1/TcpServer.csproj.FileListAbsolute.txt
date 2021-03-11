@@ -1,0 +1,13 @@
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\bin\Release\netcoreapp3.1\TcpServer.exe
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\bin\Release\netcoreapp3.1\TcpServer.deps.json
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\bin\Release\netcoreapp3.1\TcpServer.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\bin\Release\netcoreapp3.1\TcpServer.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\bin\Release\netcoreapp3.1\TcpServer.dll
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\bin\Release\netcoreapp3.1\TcpServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\obj\Release\netcoreapp3.1\TcpServer.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\obj\Release\netcoreapp3.1\TcpServer.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\obj\Release\netcoreapp3.1\TcpServer.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\obj\Release\netcoreapp3.1\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\obj\Release\netcoreapp3.1\TcpServer.dll
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\obj\Release\netcoreapp3.1\TcpServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\obj\Release\netcoreapp3.1\TcpServer.genruntimeconfig.cache

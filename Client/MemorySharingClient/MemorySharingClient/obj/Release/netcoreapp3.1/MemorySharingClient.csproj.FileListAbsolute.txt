@@ -1,0 +1,13 @@
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\bin\Release\netcoreapp3.1\MemorySharingClient.exe
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\bin\Release\netcoreapp3.1\MemorySharingClient.deps.json
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\bin\Release\netcoreapp3.1\MemorySharingClient.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\bin\Release\netcoreapp3.1\MemorySharingClient.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\bin\Release\netcoreapp3.1\MemorySharingClient.dll
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\bin\Release\netcoreapp3.1\MemorySharingClient.pdb
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\obj\Release\netcoreapp3.1\MemorySharingClient.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\obj\Release\netcoreapp3.1\MemorySharingClient.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\obj\Release\netcoreapp3.1\MemorySharingClient.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\obj\Release\netcoreapp3.1\MemorySharingClient.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\obj\Release\netcoreapp3.1\MemorySharingClient.dll
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\obj\Release\netcoreapp3.1\MemorySharingClient.pdb
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\obj\Release\netcoreapp3.1\MemorySharingClient.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Debug\net472\MemorySharingServer.exe.config
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Debug\net472\MemorySharingServer.exe
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Debug\net472\MemorySharingServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Debug\net472\MemorySharingServer.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Debug\net472\MemorySharingServer.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Debug\net472\MemorySharingServer.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Debug\net472\MemorySharingServer.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Debug\net472\MemorySharingServer.exe
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Debug\net472\MemorySharingServer.pdb

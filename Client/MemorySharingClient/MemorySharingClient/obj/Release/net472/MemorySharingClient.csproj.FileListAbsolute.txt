@@ -1,0 +1,9 @@
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\bin\Release\net472\MemorySharingClient.exe.config
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\bin\Release\net472\MemorySharingClient.exe
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\bin\Release\net472\MemorySharingClient.pdb
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\obj\Release\net472\MemorySharingClient.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\obj\Release\net472\MemorySharingClient.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\obj\Release\net472\MemorySharingClient.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\obj\Release\net472\MemorySharingClient.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\obj\Release\net472\MemorySharingClient.exe
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClient\MemorySharingClient\obj\Release\net472\MemorySharingClient.pdb

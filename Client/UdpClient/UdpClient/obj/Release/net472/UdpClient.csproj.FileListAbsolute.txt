@@ -1,0 +1,9 @@
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\net472\UdpClient.exe.config
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\net472\UdpClient.exe
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\net472\UdpClient.pdb
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net472\UdpClient.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net472\UdpClient.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net472\UdpClient.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net472\UdpClient.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net472\UdpClient.exe
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\net472\UdpClient.pdb

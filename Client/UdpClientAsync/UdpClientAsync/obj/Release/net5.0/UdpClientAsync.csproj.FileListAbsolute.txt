@@ -1,0 +1,16 @@
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Release\net5.0\UdpClientAsync.exe
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Release\net5.0\UdpClientAsync.deps.json
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Release\net5.0\UdpClientAsync.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Release\net5.0\UdpClientAsync.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Release\net5.0\UdpClientAsync.dll
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Release\net5.0\ref\UdpClientAsync.dll
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Release\net5.0\UdpClientAsync.pdb
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net5.0\UdpClientAsync.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net5.0\UdpClientAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net5.0\UdpClientAsync.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net5.0\UdpClientAsync.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net5.0\UdpClientAsync.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net5.0\UdpClientAsync.dll
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net5.0\ref\UdpClientAsync.dll
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net5.0\UdpClientAsync.pdb
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net5.0\UdpClientAsync.genruntimeconfig.cache

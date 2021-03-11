@@ -1,0 +1,9 @@
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\bin\Release\net472\TcpServer.exe.config
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\bin\Release\net472\TcpServer.exe
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\bin\Release\net472\TcpServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\obj\Release\net472\TcpServer.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\obj\Release\net472\TcpServer.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\obj\Release\net472\TcpServer.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\obj\Release\net472\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\obj\Release\net472\TcpServer.exe
+C:\Users\Asa\source\repos\IPC\Server\TcpServer\Sockets\obj\Release\net472\TcpServer.pdb

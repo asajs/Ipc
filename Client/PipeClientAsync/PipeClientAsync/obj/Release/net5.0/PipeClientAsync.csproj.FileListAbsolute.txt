@@ -1,0 +1,16 @@
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\net5.0\PipeClientAsync.exe
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\net5.0\PipeClientAsync.deps.json
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\net5.0\PipeClientAsync.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\net5.0\PipeClientAsync.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\net5.0\PipeClientAsync.dll
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\net5.0\ref\PipeClientAsync.dll
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\net5.0\PipeClientAsync.pdb
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net5.0\PipeClientAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net5.0\PipeClientAsync.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net5.0\PipeClientAsync.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net5.0\PipeClientAsync.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net5.0\PipeClientAsync.dll
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net5.0\ref\PipeClientAsync.dll
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net5.0\PipeClientAsync.pdb
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net5.0\PipeClientAsync.genruntimeconfig.cache
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net5.0\PipeClientAsync.csprojAssemblyReference.cache
