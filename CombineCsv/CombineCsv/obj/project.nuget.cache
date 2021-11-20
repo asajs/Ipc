@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpXHon4eEhl0nP5mXQrbRAjTIu0X/WLEdkTC8lx/rdIBbU0oq0FXW8RS5r+mrEpmH6+E5hcWVxj9O8ihfsWdjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asa\\source\\repos\\IPC\\CombineCsv\\CombineCsv\\CombineCsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asa\\.nuget\\packages\\csvhelper\\26.0.1\\csvhelper.26.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

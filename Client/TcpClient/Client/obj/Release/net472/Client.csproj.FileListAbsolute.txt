@@ -1,0 +1,9 @@
+C:\Users\Asa\source\repos\IPC\Client\TcpClient\Client\bin\Release\net472\Client.exe.config
+C:\Users\Asa\source\repos\IPC\Client\TcpClient\Client\bin\Release\net472\Client.exe
+C:\Users\Asa\source\repos\IPC\Client\TcpClient\Client\bin\Release\net472\Client.pdb
+C:\Users\Asa\source\repos\IPC\Client\TcpClient\Client\obj\Release\net472\Client.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Client\TcpClient\Client\obj\Release\net472\Client.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\TcpClient\Client\obj\Release\net472\Client.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\TcpClient\Client\obj\Release\net472\Client.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\TcpClient\Client\obj\Release\net472\Client.exe
+C:\Users\Asa\source\repos\IPC\Client\TcpClient\Client\obj\Release\net472\Client.pdb

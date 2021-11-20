@@ -1,0 +1,16 @@
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Release\net5.0\MemorySharingServer.exe
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Release\net5.0\MemorySharingServer.deps.json
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Release\net5.0\MemorySharingServer.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Release\net5.0\MemorySharingServer.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Release\net5.0\MemorySharingServer.dll
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Release\net5.0\ref\MemorySharingServer.dll
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\bin\Release\net5.0\MemorySharingServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Release\net5.0\MemorySharingServer.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Release\net5.0\MemorySharingServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Release\net5.0\MemorySharingServer.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Release\net5.0\MemorySharingServer.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Release\net5.0\MemorySharingServer.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Release\net5.0\MemorySharingServer.dll
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Release\net5.0\ref\MemorySharingServer.dll
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Release\net5.0\MemorySharingServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServer\MemorySharingServer\obj\Release\net5.0\MemorySharingServer.genruntimeconfig.cache

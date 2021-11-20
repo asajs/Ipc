@@ -1,0 +1,12 @@
+C:\Users\Asa\source\repos\Sockets\Sockets\bin\Release\netcoreapp3.1\Sockets.exe
+C:\Users\Asa\source\repos\Sockets\Sockets\bin\Release\netcoreapp3.1\Sockets.deps.json
+C:\Users\Asa\source\repos\Sockets\Sockets\bin\Release\netcoreapp3.1\Sockets.runtimeconfig.json
+C:\Users\Asa\source\repos\Sockets\Sockets\bin\Release\netcoreapp3.1\Sockets.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\Sockets\Sockets\bin\Release\netcoreapp3.1\Sockets.dll
+C:\Users\Asa\source\repos\Sockets\Sockets\bin\Release\netcoreapp3.1\Sockets.pdb
+C:\Users\Asa\source\repos\Sockets\Sockets\obj\Release\netcoreapp3.1\Sockets.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\Sockets\Sockets\obj\Release\netcoreapp3.1\Sockets.AssemblyInfo.cs
+C:\Users\Asa\source\repos\Sockets\Sockets\obj\Release\netcoreapp3.1\Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\Sockets\Sockets\obj\Release\netcoreapp3.1\Sockets.dll
+C:\Users\Asa\source\repos\Sockets\Sockets\obj\Release\netcoreapp3.1\Sockets.pdb
+C:\Users\Asa\source\repos\Sockets\Sockets\obj\Release\netcoreapp3.1\Sockets.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\Asa\source\repos\IPC\Server\UdpServerAsync\UdpServerAsync\bin\Release\net472\UdpServerAsync.exe.config
+C:\Users\Asa\source\repos\IPC\Server\UdpServerAsync\UdpServerAsync\bin\Release\net472\UdpServerAsync.exe
+C:\Users\Asa\source\repos\IPC\Server\UdpServerAsync\UdpServerAsync\bin\Release\net472\UdpServerAsync.pdb
+C:\Users\Asa\source\repos\IPC\Server\UdpServerAsync\UdpServerAsync\obj\Release\net472\UdpServerAsync.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Server\UdpServerAsync\UdpServerAsync\obj\Release\net472\UdpServerAsync.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\UdpServerAsync\UdpServerAsync\obj\Release\net472\UdpServerAsync.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Server\UdpServerAsync\UdpServerAsync\obj\Release\net472\UdpServerAsync.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\UdpServerAsync\UdpServerAsync\obj\Release\net472\UdpServerAsync.exe
+C:\Users\Asa\source\repos\IPC\Server\UdpServerAsync\UdpServerAsync\obj\Release\net472\UdpServerAsync.pdb

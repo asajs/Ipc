@@ -1,0 +1,12 @@
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServerMutex\MemorySharingServerMutex\bin\Release\netcoreapp3.1\MemorySharingServerMutex.exe
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServerMutex\MemorySharingServerMutex\bin\Release\netcoreapp3.1\MemorySharingServerMutex.deps.json
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServerMutex\MemorySharingServerMutex\bin\Release\netcoreapp3.1\MemorySharingServerMutex.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServerMutex\MemorySharingServerMutex\bin\Release\netcoreapp3.1\MemorySharingServerMutex.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServerMutex\MemorySharingServerMutex\bin\Release\netcoreapp3.1\MemorySharingServerMutex.dll
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServerMutex\MemorySharingServerMutex\bin\Release\netcoreapp3.1\MemorySharingServerMutex.pdb
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServerMutex\MemorySharingServerMutex\obj\Release\netcoreapp3.1\MemorySharingServerMutex.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServerMutex\MemorySharingServerMutex\obj\Release\netcoreapp3.1\MemorySharingServerMutex.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServerMutex\MemorySharingServerMutex\obj\Release\netcoreapp3.1\MemorySharingServerMutex.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServerMutex\MemorySharingServerMutex\obj\Release\netcoreapp3.1\MemorySharingServerMutex.dll
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServerMutex\MemorySharingServerMutex\obj\Release\netcoreapp3.1\MemorySharingServerMutex.pdb
+C:\Users\Asa\source\repos\IPC\Server\MemorySharingServerMutex\MemorySharingServerMutex\obj\Release\netcoreapp3.1\MemorySharingServerMutex.genruntimeconfig.cache

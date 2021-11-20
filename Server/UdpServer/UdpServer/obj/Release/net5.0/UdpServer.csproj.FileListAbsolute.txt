@@ -1,0 +1,16 @@
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\bin\Release\net5.0\UdpServer.exe
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\bin\Release\net5.0\UdpServer.deps.json
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\bin\Release\net5.0\UdpServer.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\bin\Release\net5.0\UdpServer.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\bin\Release\net5.0\UdpServer.dll
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\bin\Release\net5.0\ref\UdpServer.dll
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\bin\Release\net5.0\UdpServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\net5.0\UdpServer.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\net5.0\UdpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\net5.0\UdpServer.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\net5.0\UdpServer.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\net5.0\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\net5.0\UdpServer.dll
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\net5.0\ref\UdpServer.dll
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\net5.0\UdpServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\net5.0\UdpServer.genruntimeconfig.cache

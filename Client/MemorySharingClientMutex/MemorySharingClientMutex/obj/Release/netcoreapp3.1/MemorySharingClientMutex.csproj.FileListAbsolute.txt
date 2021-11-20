@@ -1,0 +1,13 @@
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\netcoreapp3.1\MemorySharingClientMutex.exe
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\netcoreapp3.1\MemorySharingClientMutex.deps.json
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\netcoreapp3.1\MemorySharingClientMutex.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\netcoreapp3.1\MemorySharingClientMutex.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\netcoreapp3.1\MemorySharingClientMutex.dll
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\netcoreapp3.1\MemorySharingClientMutex.pdb
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\netcoreapp3.1\MemorySharingClientMutex.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\netcoreapp3.1\MemorySharingClientMutex.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\netcoreapp3.1\MemorySharingClientMutex.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\netcoreapp3.1\MemorySharingClientMutex.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\netcoreapp3.1\MemorySharingClientMutex.dll
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\netcoreapp3.1\MemorySharingClientMutex.pdb
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\netcoreapp3.1\MemorySharingClientMutex.genruntimeconfig.cache

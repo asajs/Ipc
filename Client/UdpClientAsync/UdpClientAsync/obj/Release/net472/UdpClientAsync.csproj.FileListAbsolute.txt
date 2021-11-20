@@ -1,0 +1,9 @@
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Release\net472\UdpClientAsync.exe.config
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Release\net472\UdpClientAsync.exe
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\bin\Release\net472\UdpClientAsync.pdb
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net472\UdpClientAsync.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net472\UdpClientAsync.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net472\UdpClientAsync.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net472\UdpClientAsync.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net472\UdpClientAsync.exe
+C:\Users\Asa\source\repos\IPC\Client\UdpClientAsync\UdpClientAsync\obj\Release\net472\UdpClientAsync.pdb

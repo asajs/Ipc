@@ -1,0 +1,13 @@
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\bin\Release\netcoreapp3.1\UdpServer.exe
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\bin\Release\netcoreapp3.1\UdpServer.deps.json
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\bin\Release\netcoreapp3.1\UdpServer.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\bin\Release\netcoreapp3.1\UdpServer.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\bin\Release\netcoreapp3.1\UdpServer.dll
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\bin\Release\netcoreapp3.1\UdpServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\netcoreapp3.1\UdpServer.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\netcoreapp3.1\UdpServer.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\netcoreapp3.1\UdpServer.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\netcoreapp3.1\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\netcoreapp3.1\UdpServer.dll
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\netcoreapp3.1\UdpServer.pdb
+C:\Users\Asa\source\repos\IPC\Server\UdpServer\UdpServer\obj\Release\netcoreapp3.1\UdpServer.genruntimeconfig.cache

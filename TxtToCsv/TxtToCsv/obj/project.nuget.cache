@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Pkh4aucO6E0AWnBc2tuCa9PPCCL2Kl8mAZV+DP9JC99OYbK60lzxt9C5NTOO4WJDrvZZJCbRPOqSNuaB4UY7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asa\\source\\repos\\IPC\\TxtToCsv\\TxtToCsv\\TxtToCsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asa\\.nuget\\packages\\csvhelper\\26.0.1\\csvhelper.26.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

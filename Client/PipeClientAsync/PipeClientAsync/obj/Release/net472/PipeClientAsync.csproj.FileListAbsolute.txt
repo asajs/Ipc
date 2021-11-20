@@ -1,0 +1,9 @@
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\net472\PipeClientAsync.exe.config
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\net472\PipeClientAsync.exe
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\bin\Release\net472\PipeClientAsync.pdb
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net472\PipeClientAsync.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net472\PipeClientAsync.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net472\PipeClientAsync.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net472\PipeClientAsync.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net472\PipeClientAsync.exe
+C:\Users\Asa\source\repos\IPC\Client\PipeClientAsync\PipeClientAsync\obj\Release\net472\PipeClientAsync.pdb

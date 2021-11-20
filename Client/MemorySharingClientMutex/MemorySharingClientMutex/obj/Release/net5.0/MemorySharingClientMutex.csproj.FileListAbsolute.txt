@@ -1,0 +1,16 @@
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\net5.0\MemorySharingClientMutex.exe
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\net5.0\MemorySharingClientMutex.deps.json
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\net5.0\MemorySharingClientMutex.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\net5.0\MemorySharingClientMutex.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\net5.0\MemorySharingClientMutex.dll
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\net5.0\ref\MemorySharingClientMutex.dll
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\bin\Release\net5.0\MemorySharingClientMutex.pdb
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net5.0\MemorySharingClientMutex.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net5.0\MemorySharingClientMutex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net5.0\MemorySharingClientMutex.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net5.0\MemorySharingClientMutex.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net5.0\MemorySharingClientMutex.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net5.0\MemorySharingClientMutex.dll
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net5.0\ref\MemorySharingClientMutex.dll
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net5.0\MemorySharingClientMutex.pdb
+C:\Users\Asa\source\repos\IPC\Client\MemorySharingClientMutex\MemorySharingClientMutex\obj\Release\net5.0\MemorySharingClientMutex.genruntimeconfig.cache

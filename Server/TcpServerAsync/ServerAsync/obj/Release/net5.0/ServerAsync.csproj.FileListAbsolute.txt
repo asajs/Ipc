@@ -1,0 +1,16 @@
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\bin\Release\net5.0\ServerAsync.exe
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\bin\Release\net5.0\ServerAsync.deps.json
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\bin\Release\net5.0\ServerAsync.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\bin\Release\net5.0\ServerAsync.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\bin\Release\net5.0\ServerAsync.dll
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\bin\Release\net5.0\ref\ServerAsync.dll
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\bin\Release\net5.0\ServerAsync.pdb
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\obj\Release\net5.0\ServerAsync.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\obj\Release\net5.0\ServerAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\obj\Release\net5.0\ServerAsync.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\obj\Release\net5.0\ServerAsync.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\obj\Release\net5.0\ServerAsync.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\obj\Release\net5.0\ServerAsync.dll
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\obj\Release\net5.0\ref\ServerAsync.dll
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\obj\Release\net5.0\ServerAsync.pdb
+C:\Users\Asa\source\repos\IPC\Server\TcpServerAsync\ServerAsync\obj\Release\net5.0\ServerAsync.genruntimeconfig.cache

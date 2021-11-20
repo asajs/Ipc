@@ -1,0 +1,13 @@
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\netcoreapp3.1\UdpClient.exe
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\netcoreapp3.1\UdpClient.deps.json
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\netcoreapp3.1\UdpClient.runtimeconfig.json
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\netcoreapp3.1\UdpClient.runtimeconfig.dev.json
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\netcoreapp3.1\UdpClient.dll
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\bin\Release\netcoreapp3.1\UdpClient.pdb
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\netcoreapp3.1\UdpClient.csprojAssemblyReference.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\netcoreapp3.1\UdpClient.AssemblyInfoInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\netcoreapp3.1\UdpClient.AssemblyInfo.cs
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\netcoreapp3.1\UdpClient.csproj.CoreCompileInputs.cache
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\netcoreapp3.1\UdpClient.dll
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\netcoreapp3.1\UdpClient.pdb
+C:\Users\Asa\source\repos\IPC\Client\UdpClient\UdpClient\obj\Release\netcoreapp3.1\UdpClient.genruntimeconfig.cache
